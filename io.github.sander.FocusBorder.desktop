@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Focus Border
+Comment=Highlight the active window with a border overlay
+Exec=/usr/bin/env python3 /home/sander/tmp/2026-04-03/focus_border.py
+Terminal=false
+Categories=Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
